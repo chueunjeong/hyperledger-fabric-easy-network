@@ -15,7 +15,7 @@ function checkPrereqs() {
         exit 1
     fi
     #check crypto-config dir
-    if [ ! -d "config"]; then
+    if [ ! -d "config" ]; then
         echo "config dir missing"
         exit 1
     fi

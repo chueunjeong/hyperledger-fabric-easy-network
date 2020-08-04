@@ -1,0 +1,4 @@
+network/config/*.*
+network/crypto-config/
+network/docker-compose-template.yml
+application/node_modules
